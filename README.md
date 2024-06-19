@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mcoplan11)](https://github.com/mcoplan11/github-profile-trophy)
+
 <!--
 **mcoplan11/mcoplan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
