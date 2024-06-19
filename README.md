@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am interesting in using ML to improve healthcare
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mcoplan11)](https://github.com/mcoplan11/github-profile-trophy)
 
 <!--
